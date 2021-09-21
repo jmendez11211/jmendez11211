@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmendez11211
+- 👋 Hi, I’m Jose Mendez
 - 👀 I’m interested in cybersecurity/omputer science
 - 🌱 I’m currently a junior in Baruch College
 - 💞️ I’m looking to collaborate on my fellow students that is in my field of studies
